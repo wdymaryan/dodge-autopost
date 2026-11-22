@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "angle": "launch",
+    "main": "I built a free 2D browser platformer called Dodge—complete with global leaderboards, a live player queue, and a level editor where anyone can build & share stages.\n\nNo downloads, runs straight in your browser. Think you can beat the top time?\n\n#indiedev #gamedev #browsergame",
+    "reply": "Play directly in your browser: https://dodge.saas-build09.workers.dev",
+    "media": "media/dodge_clip_1.mp4"
+  },
+  {
+    "id": 2,
+    "angle": "challenge",
+    "main": "Current top score on Dodge is standing strong!\n\nWho thinks they can dodge the hazard grid and claim rank #1 on the global leaderboard?\n\nZero downloads. Smooth 60fps in your browser.\n\n#indiegamedev #gaming #webgames",
+    "reply": "Play directly in your browser: https://dodge.saas-build09.workers.dev",
+    "media": "media/dodge_clip_1.mp4"
+  },
+  {
+    "id": 3,
+    "angle": "community",
+    "main": "The Dodge level editor lets you build brutal platformer stages in seconds and share them with the world.\n\nBuild a level, share your code, and watch players try to clear it!\n\n#gamedev #leveldesign #indiegame",
+    "reply": "Play directly in your browser: https://dodge.saas-build09.workers.dev",
+    "media": "media/dodge_clip_1.mp4"
+  },
+  {
+    "id": 4,
+    "angle": "tech",
+    "main": "No 50GB downloads. No launcher updates. Just instant 60fps platforming straight in your browser.\n\nBuilt Dodge with HTML5 Canvas & Cloudflare Workers. Plays on desktop or phone!\n\n#webdev #javascript #html5",
+    "reply": "Play directly in your browser: https://dodge.saas-build09.workers.dev",
+    "media": "media/dodge_clip_1.mp4"
+  },
+  {
+    "id": 5,
+    "angle": "speedrun",
+    "main": "Just pushed a fresh patch to Dodge!\n\nTightened collision hitboxes, tuned particle effects, and smoothed mobile touch controls.\n\nCome test your speedrun timing!\n\n#indiedev #patchnotes #gamedev",
+    "reply": "Play directly in your browser: https://dodge.saas-build09.workers.dev",
+    "media": "media/dodge_clip_1.mp4"
+  }
+]
